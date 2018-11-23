@@ -1,9 +1,9 @@
 {
   "name": "YHFCategoryKit",
-  "version": "0.1.0",
-  "summary": "A short description of YHFCategoryKit.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/fengziios/YHFCategoryKit",
+  "version": "0.1.1",
+  "summary": "A test for pod.",
+  "description": "a smilple test categorykit test to doing CocoaPods.",
+  "homepage": "https://github.com/HFComponent",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "fengziios": "1558288344@qq.com"
   },
   "source": {
-    "git": "https://github.com/fengziios/YHFCategoryKit.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/HFComponent/YHFCategoryKit",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
