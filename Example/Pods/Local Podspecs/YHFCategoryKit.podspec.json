@@ -1,0 +1,22 @@
+{
+  "name": "YHFCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of YHFCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fengziios/YHFCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fengziios": "1558288344@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/fengziios/YHFCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YHFCategoryKit/Classes/**/*"
+}
